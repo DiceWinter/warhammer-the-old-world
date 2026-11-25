@@ -1,0 +1,15 @@
+---
+{"dg-publish":true,"permalink":"/core-rulebook/8-narrative-battles/open-play/","dg-note-properties":{}}
+---
+
+A term used often in conjunction with narrative battles is ‘open play’, but what does it mean? Open play means many things, but in essence it refers to the philosophy wherein players treat the rules as a guideline to be aided by, rather than a set of constrictions to restrict them.
+#### Armies Of Imagination
+One key aspect of open play is that it grants the freedom to forego certain army composition rules in pursuit of the narrative. At its most simple, players will often ignore percentages and other restrictions when creating their armies, choosing instead to write a muster list that best fits the narrative. Taking it further, some players will ignore points values altogether, and instead field opposing armies created purely to fit into their story.
+
+Of course, ignoring such rules can lead to an imbalanced match-up, and this thought may be unappealing to some players. This is perfectly acceptable and any group of players is encouraged to use the suggestions given here, or not, as they see fit. However, these imbalances can often prove part of the charm of a narrative battle, and can invariably be countered by special rules and objectives. Ignoring points values might lead to an army being outnumbered ten to one, for example, and that army might reasonably be expected to suffer a crushing defeat and terrible losses. But the challenge of the game might be to hold out until turn four – perhaps that will grant a vital messenger sufficient time to escape, carrying word of the size of the invading army, and thus the terrible defeat can be claimed as a victory (of sorts).
+#### “Think Of Them More As Guidelines”
+Another key aspect of open play is that it gives players permission to change a rule if doing so will improve the experience in the moment. For example, a vital unit might unexpectedly lose combat and Break, causing the game to end suddenly and unsatisfyingly. Of course, such is the way of things and there is no altering that. However, sometimes players encountering such an event might agree to alter the outcome of the Break test, perhaps allowing the defeated unit to instead Fall Back in Good Order. Doing so might extend the game and, more importantly, might feel like the more correct outcome in the circumstances.
+
+By way of another example, imagine a battle fought under the gloom of twilight. In such conditions, shooting may reasonably be expected to be less effective. To evoke this, players may add a rule, perhaps agreeing that all long range shooting suffers an additional -1 To Hit modifier, or perhaps agreeing that the Range characteristic of all missile weapons should be reduced.
+
+Whatever the case, players – especially good friends who know one another well – are encouraged to make amendments to the rules before or during a game if doing so will help to enforce the narrative. Provided both players are having fun and are in agreement, such amendments and alterations can lead to some truly memorable moments.
